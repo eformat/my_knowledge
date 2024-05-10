@@ -26,6 +26,6 @@ seed_examples:
       No Ireland has only ever made the Quarter-finals in (1987, 1991, 1995, 2003, 2011, 2015, 2019, 2023)
 document:
   repo: https://github.com/eformat/my_knowledge.git
-  commit: 
+  commit: b2b31f07c3a899347bdd0bd7c22593075e6ca288
   patterns: 
     - "*.md"
