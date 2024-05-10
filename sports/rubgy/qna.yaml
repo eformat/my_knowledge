@@ -18,8 +18,14 @@ seed_examples:
   - question: which countries have won the rugby world cup ?
     answer: |
       New Zealand, South Africa, Australia, England.
+  - question: was there a rugby world cup held in 1971?
+    answer: |
+      No the first rugby world cup was held in 1987 !
+  - question: has Ireland ever won the rugby world cup?
+    answer: |
+      No Ireland has only ever made the Quarter-finals in (1987, 1991, 1995, 2003, 2011, 2015, 2019, 2023)
 document:
   repo: https://github.com/eformat/my_knowledge.git
-  commit: 0243342e2581d58c51f3bb9b94161f06066680b2
+  commit: 
   patterns: 
     - "*.md"
