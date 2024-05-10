@@ -17,6 +17,6 @@ seed_examples:
       Whether you’re pursuing an OpenShift AI pilot experience or need guidance on building your MLOps foundation, Red Hat Consulting will provide support and mentorship.
 document:
   repo: https://github.com/eformat/my_knowledge.git
-  commit: latest
+  commit: ea4882f46f29bee6d3426d1336b9b0e02bc04502
   patterns: 
     - "*.md"
