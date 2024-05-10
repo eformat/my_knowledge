@@ -20,6 +20,6 @@ seed_examples:
       New Zealand, South Africa, Australia, England.
 document:
   repo: https://github.com/eformat/my_knowledge.git
-  commit: 
+  commit: 0243342e2581d58c51f3bb9b94161f06066680b2
   patterns: 
     - "*.md"
