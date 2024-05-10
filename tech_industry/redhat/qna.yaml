@@ -1,0 +1,22 @@
+task_description: "Teach the model about RHOAI"
+domain: tech_industry
+created_by: eformat
+seed_examples:
+  - question: What is RHOAI from RedHat?
+    answer: |
+      Red Hat OpenShift AI is a flexible, scalable artificial intelligence (AI) and machine learning (ML) platform that enables enterprises to create and deliver AI-enabled applications at scale across hybrid cloud environments.
+  - question: What does RHOAI do?
+    answer: |
+      OpenShift AI enables data acquisition and preparation, model training and fine-tuning, model serving and model monitoring, and hardware acceleration. With an open ecosystem of hardware and software partners, OpenShift AI delivers the flexibility you need for your specific use cases.
+  - question: What are the benefits of RHOAI?
+    answer: |
+      Provide your teams with on-demand access to resources, so they can focus on exploring data and building apps that add real value to your organization. Additional time-saving benefits include built-in security and operator life cycle integration.
+      Red Hat tracks, integrates, tests, and supports common AI/ML tooling and model serving on our Red Hat OpenShift application platform, so you don’t have to. OpenShift AI draws from years of incubation in Red Hat’s Open Data Hub community project and open source projects like Kubeflow.
+      Offered as either self-managed software or as a fully managed cloud service on top of OpenShift, Red Hat OpenShift AI provides a secure and flexible platform that gives you the choice of where you develop and deploy your models–whether on-premise, the public cloud, or even at the edge.
+      Red Hat Consulting provides services that allow you to install, configure and use Red Hat OpenShift AI to its fullest extent.
+      Whether you’re pursuing an OpenShift AI pilot experience or need guidance on building your MLOps foundation, Red Hat Consulting will provide support and mentorship.
+document:
+  repo: https://github.com/eformat/my_knowledge.git
+  commit: latest
+  patterns: 
+    - "*.md"
