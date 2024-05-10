@@ -1,5 +1,5 @@
 task_description: "Teach the model about Rugby World Cups"
-domain: sport
+domain: sports
 created_by: eformat
 seed_examples:
   - question: When was the first Rugby World Cup?
