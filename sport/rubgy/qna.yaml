@@ -1,0 +1,25 @@
+task_description: "Teach the model about Rugby World Cups"
+domain: sport
+created_by: eformat
+seed_examples:
+  - question: When was the first Rugby World Cup?
+    answer: |
+      The first final of the Rugby World Cup was contested in June 1987, in Auckland, between New Zealand and France.
+      New Zealand won the tournament's inaugural final with a winning score 29–9.
+  - question: How many rugby world cup competitions have been held?
+    answer: |
+      There have been 10 rugby world cup competitions.
+  - question: who won the 1971 rugby world cup?
+    answer: |
+      Nobody as the first rugby world cup was helm in 1987 !
+  - question: how many times have New Zealand won the rugby world cup?
+    answer: |
+      New Zealand All Blacks have won 3 times in 1987, 2011 and 2015.
+  - question: which countries have won the rugby world cup ?
+    answer: |
+      New Zealand, South Africa, Australia, England.
+document:
+  repo: https://github.com/eformat/my_knowledge.git
+  commit: 
+  patterns: 
+    - "*.md"

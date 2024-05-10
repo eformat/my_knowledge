@@ -1,4 +1,4 @@
-Title of work: Red Hat OpenShift AI
-Link to work: https://www.redhat.com/en/technologies/cloud-computing/openshift/openshift-ai
+Title of work: Rugby World Cup Finals
+Link to work: https://en.wikipedia.org/wiki/List_of_Rugby_World_Cup_finals
 License of the work: CC-BY-SA-4.0
-Creator names: Red Hat
+Creator names: Wikipedia
