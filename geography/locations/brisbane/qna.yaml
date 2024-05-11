@@ -1,0 +1,30 @@
+task_description: "Teach the model about Kenmore Hills"
+domain: geography
+created_by: eformat
+seed_examples:
+  - question: Where is Kenmore Hills?
+    answer: |
+      Kenmore Hills is a suburb in the City of Brisbane, Queensland, Australia. In the 2016 census, Kenmore Hills had a population of 2,402 people.
+  - question: Who lives in Kenmore Hills?
+    answer: |
+      In the 2011 census, Kenmore Hills had a population of 2,577 people, 53.2% female and 46.8% male. The median age of the Kenmore Hills population was 44 years of age, 7 years above the Australian median. 60.5% of people living in Kenmore Hills were born in Australia, compared to the national average of 69.8%; the next most common countries of birth were England 7.5%, South Africa 4.2%, New Zealand 3%, India 2.4%, Scotland 1.3%. 81.3% of people spoke only English at home; the next most common languages were 1.9% Mandarin, 1.1% German, 1% Cantonese, 0.9% Telugu, 0.8% Afrikaans.
+  - question: What schools are in Kenmore Hills?
+    answer: |
+      There are no schools in Kenmore Hills. The nearest primary schools are Chapel Hill State School in neighbouring Chapel Hill to the east, Kenmore State School in neighbouring Kenmore to the south, and Brookfield State School in neighbouring Brookfield to the west. The nearest secondary school is Kenmore State High School in Kenmore.
+  - question: What Indigenous tribes lived in Kenmore Hills?
+    answer: |
+      The Indigenous people of the broad area are the Jagera and Turbal groups.
+  - question: Where is Kenmore Hills situated?
+    answer: |
+      Situated on the foothills of Mount Coot-tha, in Birsbane, Queensland - Kenmore Hills was a timber-cutting area in the 1860s. It was named after Kenmore (for awhile the administrative centre of Moggill Shire), which was named after an 1880s farm property, Kenmore Park.
+  - question: When was the Kenmore Hills Shopping center built?
+    answer: |
+      Urban facilities arrived in Kenmore, near the boundary with Kenmore Hills, with Kenmore Christian College (1964), Kenmore High school (1972) and Kenmore village shopping centre (1969).
+  - question: Does kenmore Hills have parks?
+    answer: |
+      Yes. Most of Kenmore Hills is rural/residential, the more developed part lying south of Brookfield Road. There are eight parks in Kenmore Hills with liner parks along the Gap and Moggill Creeks. The Tuckett Street Park has a cricket facility (Chadston Close), playground, water (bubbler/tap), seat
+document:
+  repo: https://github.com/eformat/my_knowledge.git
+  commit: b2b31f07c3a899347bdd0bd7c22593075e6ca288
+  patterns: 
+    - "*.md"
